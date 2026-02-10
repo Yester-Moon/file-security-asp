@@ -1,0 +1,13 @@
+D:\Github\file-security-asp\FileService\FileService.Domain\obj\Debug\net8.0\FileService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\file-security-asp\FileService\FileService.Domain\obj\Debug\net8.0\FileService.Domain.AssemblyInfoInputs.cache
+D:\Github\file-security-asp\FileService\FileService.Domain\obj\Debug\net8.0\FileService.Domain.AssemblyInfo.cs
+D:\Github\file-security-asp\FileService\FileService.Domain\obj\Debug\net8.0\FileService.Domain.csproj.CoreCompileInputs.cache
+D:\Github\file-security-asp\FileService\FileService.Domain\obj\Debug\net8.0\FileService.Domain.sourcelink.json
+D:\Github\file-security-asp\FileService\FileService.Domain\bin\Debug\net8.0\FileService.Domain.deps.json
+D:\Github\file-security-asp\FileService\FileService.Domain\bin\Debug\net8.0\FileService.Domain.dll
+D:\Github\file-security-asp\FileService\FileService.Domain\bin\Debug\net8.0\FileService.Domain.pdb
+D:\Github\file-security-asp\FileService\FileService.Domain\obj\Debug\net8.0\FileService.Domain.dll
+D:\Github\file-security-asp\FileService\FileService.Domain\obj\Debug\net8.0\refint\FileService.Domain.dll
+D:\Github\file-security-asp\FileService\FileService.Domain\obj\Debug\net8.0\FileService.Domain.pdb
+D:\Github\file-security-asp\FileService\FileService.Domain\obj\Debug\net8.0\ref\FileService.Domain.dll
+D:\Github\file-security-asp\FileService\FileService.Domain\obj\Debug\net8.0\FileService.Domain.csproj.AssemblyReference.cache

@@ -1,0 +1,29 @@
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  },
+  "AllowedHosts": "*",
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=localhost;Database=FileSecurityDb_Dev;User Id=YOUR_USER;Password=YOUR_PASSWORD;TrustServerCertificate=True;",
+    "Redis": "localhost:6379"
+  },
+  "Jwt": {
+    "Key": "YOUR_BASE64_ENCODED_SECRET_KEY_AT_LEAST_32_BYTES",
+    "Issuer": "FileSecurityService",
+    "Audience": "FileSecurityClients",
+    "ExpiryMinutes": 60
+  },
+  "Encryption": {
+    "Key": "YOUR_BASE64_ENCODED_AES_256_KEY",
+    "IV": "YOUR_BASE64_ENCODED_IV"
+  },
+  "FileStorage": {
+    "Path": "YOUR_FILE_STORAGE_PATH"
+  },
+  "ClamAV": {
+    "Endpoint": "http://localhost:3310/scan"
+  }
+}

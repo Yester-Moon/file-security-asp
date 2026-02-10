@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wlCZi2CKWlY=",
+  "success": true,
+  "projectFilePath": "D:\\Github\\file-security-asp\\FileService\\FileService.Domain\\FileService.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\意倦\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

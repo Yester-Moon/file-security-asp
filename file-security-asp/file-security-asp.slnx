@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/AdminService/" />
+  <Folder Name="/AuditService/" />
+  <Folder Name="/Commons/" />
+  <Folder Name="/FileService/">
+    <Project Path="../FileService/FileService.Application/FileService.Application.csproj" />
+    <Project Path="../FileService/FileService.Domain/FileService.Domain.csproj" />
+    <Project Path="../FileService/FileService.Infrastructure/FileService.Infrastructure.csproj" />
+    <Project Path="../FileService/FileService.WebAPI/FileService.WebAPI.csproj" />
+  </Folder>
+  <Folder Name="/IdentityService/" />
+</Solution>

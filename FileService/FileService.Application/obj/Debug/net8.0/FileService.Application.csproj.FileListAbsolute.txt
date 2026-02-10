@@ -1,0 +1,16 @@
+D:\Github\file-security-asp\FileService\FileService.Application\obj\Debug\net8.0\FileService.Application.csproj.AssemblyReference.cache
+D:\Github\file-security-asp\FileService\FileService.Application\obj\Debug\net8.0\FileService.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\file-security-asp\FileService\FileService.Application\obj\Debug\net8.0\FileService.Application.AssemblyInfoInputs.cache
+D:\Github\file-security-asp\FileService\FileService.Application\obj\Debug\net8.0\FileService.Application.AssemblyInfo.cs
+D:\Github\file-security-asp\FileService\FileService.Application\obj\Debug\net8.0\FileService.Application.csproj.CoreCompileInputs.cache
+D:\Github\file-security-asp\FileService\FileService.Application\obj\Debug\net8.0\FileService.Application.sourcelink.json
+D:\Github\file-security-asp\FileService\FileService.Application\bin\Debug\net8.0\FileService.Application.deps.json
+D:\Github\file-security-asp\FileService\FileService.Application\bin\Debug\net8.0\FileService.Application.dll
+D:\Github\file-security-asp\FileService\FileService.Application\bin\Debug\net8.0\FileService.Application.pdb
+D:\Github\file-security-asp\FileService\FileService.Application\bin\Debug\net8.0\FileService.Domain.dll
+D:\Github\file-security-asp\FileService\FileService.Application\bin\Debug\net8.0\FileService.Domain.pdb
+D:\Github\file-security-asp\FileService\FileService.Application\obj\Debug\net8.0\FileServ.B0EDC453.Up2Date
+D:\Github\file-security-asp\FileService\FileService.Application\obj\Debug\net8.0\FileService.Application.dll
+D:\Github\file-security-asp\FileService\FileService.Application\obj\Debug\net8.0\refint\FileService.Application.dll
+D:\Github\file-security-asp\FileService\FileService.Application\obj\Debug\net8.0\FileService.Application.pdb
+D:\Github\file-security-asp\FileService\FileService.Application\obj\Debug\net8.0\ref\FileService.Application.dll
